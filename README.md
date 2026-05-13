@@ -1,23 +1,26 @@
-# devops-capstone-project
 
-Accounts Microservice
-Build Status
+# DevOps Capstone Project
 
-Overview
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+## Overview
+
 This project implements an Accounts Microservice using REST APIs.
 
 The service supports:
+- Create accounts
+- Read account details
+- Update accounts
+- Delete accounts
+- List all accounts
 
-Create accounts
-Read account details
-Update accounts
-Delete accounts
-List all accounts
-Technologies Used
-Python
-Flask
-Docker
-Kubernetes
-GitHub Actions
-Tekton Pipelines
-Running
+## Technologies Used
+
+- Python
+- Flask
+- Docker
+- Kubernetes
+- GitHub Actions
+- Tekton Pipelines
+
+## Running
